@@ -1,0 +1,10 @@
+build
+.gradle
+*.orig
+*.sublime-workspace
+.classpath
+.project
+.idea
+shield.iml
+shield.ipr
+shield.iws
